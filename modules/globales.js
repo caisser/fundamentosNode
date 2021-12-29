@@ -1,0 +1,1 @@
+console.log(global); //Aca se encuentran todos los modulos globales, no hacer en produccion

@@ -1,0 +1,3 @@
+moment -- Fechas y tiempo
+bcrypt -- Encriptar contrasenias
+sharp -- imagenes
